@@ -4,6 +4,14 @@ h1{
 .orange-color{
     color: orange;
 }
+div img{
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    margin: 0;
+    background-repeat: no-repeat;
+}
 .half-width{
     width: 50%;
 }
@@ -15,4 +23,8 @@ h1{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 5px 25px;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 5px;
 }
