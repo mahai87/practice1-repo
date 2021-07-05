@@ -46,6 +46,11 @@ h2{
     border-left: 5px solid;
    
  }
+.bgn1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .bgn2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
